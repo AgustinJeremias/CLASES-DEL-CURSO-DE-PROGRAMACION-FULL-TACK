@@ -1,3 +1,3 @@
-Clase 2
+Clase 2 - introduccion a VSC y GitHub
 -------------------------------------
 NOSE
